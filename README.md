@@ -1,1 +1,1 @@
-# Survival-Prediction
+# Churn-Prediction
